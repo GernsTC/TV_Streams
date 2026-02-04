@@ -1,2 +1,2 @@
-TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
 TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
