@@ -1,6 +1,6 @@
 TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/test.mp4
-TC002, https://github.com/GernsTC/TV_Streams/blob/main/videos/test.mp4
-TC003, https://github.com/GernsTC/TV_Streams/blob/main/videos/test.mp4
+TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Woodturning_Carbite_Tip_Guide.mp4
+TC003, 
 TC004,
 TC005,
 TC006,
