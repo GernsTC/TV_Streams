@@ -5,3 +5,11 @@ TC004, https://gernot.co.za/media/20250919_184312.mp4
 TC005, https://gernot.co.za/media/20250919_184312.mp4
 TC006, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
 TC007, https://gernot.co.za/media/20250919_184312.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC008, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC009, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC0010, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC011, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC012, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC013, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC014, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC015, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
