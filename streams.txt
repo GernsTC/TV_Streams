@@ -2,3 +2,4 @@ TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Woodturn
 TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TOOLCRAFT_TV-Woodturning_Carbite_Tip_Guide.mp4
 TC003, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/001Toocraft_TV_Site_Ready_Savings_Animation.mp4
 TC004, https://gernot.co.za/media/20250919_184312.mp4
+TC005, TC004, https://gernot.co.za/media/20250919_184312.mp4
