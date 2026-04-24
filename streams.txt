@@ -1,7 +1,7 @@
 TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Woodturning_Carbite_Tip_Guide.mp4
 TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TOOLCRAFT_TV-Woodturning_Carbite_Tip_Guide.mp4
 TC003, https://gernot.co.za/media/Toolcraft_TV_Site_Ready_Savings_Animation1.mp4
-TC004, https://gernot.co.za/media//TV_Streams/main/videos/Bosch_Promotion_TV_3.mp4
+TC004, http://gernot.co.za/media/Bosch_Promotion_TV_3.mp4
 TC005, https://gernot.co.za/media/20250919_184312.mp4
 TC006, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
 TC007, https://gernot.co.za/media/20250919_184312.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
