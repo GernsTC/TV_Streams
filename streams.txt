@@ -3,13 +3,13 @@ TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TOOLCRAF
 TC003, https://gernot.co.za/media/Toolcraft_TV_Site_Ready_Savings_Animation1.mp4
 TC004, https://gernot.co.za/media/Bosch_Promotion_TV4.mp4
 TC005, 
-TC006, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC007, https://gernot.co.za/media/20250919_184312.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC008, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC009, https://gernot.co.za/media/20250919_184312.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
-TC0010, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC011, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC012, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC013, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC006,
+TC007,
+TC008,
+TC009,
+TC0010,
+TC011,
+TC012,
+TC013,
 TC014, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC015, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+TC015, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
