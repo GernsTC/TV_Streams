@@ -13,3 +13,8 @@ TC012,
 TC013,
 TC014, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
 TC015, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
+Bosch, https://gernot.co.za/media/Bosch.mp4
+DeWalt, https://gernot.co.za/media/DeWalt.mp4
+Hikoki, https://gernot.co.za/media/Hikoki.mp4
+Makita, https://gernot.co.za/media/Makita.mp4
+Metabo, https://gernot.co.za/media/Metabo.mp4
