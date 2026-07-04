@@ -3,18 +3,10 @@ TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TOOLCRAF
 TC003, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Toolcraft_TV_Hottest_Deals_Animation.mp4
 TC004, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metab_x_Hikoki_V_Animations2.mp4
 TC005, https://gernot.co.za/media/Bosch_boxes.mp4
-TC006,
-TC007,
-TC008,
-TC009,
-TC0010,
-TC011,
-TC012,
-TC013,
-TC014, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
-TC015, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
 Bosch, https://gernot.co.za/media/Bosch.mp4
 DeWalt, https://gernot.co.za/media/DeWalt.mp4
 Hikoki, https://gernot.co.za/media/Hikoki.mp4
 Makita, https://gernot.co.za/media/Makita.mp4
 Metabo, https://gernot.co.za/media/Metabo.mp4
+Test1, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
+Test2, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
