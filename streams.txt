@@ -1,6 +1,6 @@
 TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Woodturning_Carbite_Tip_Guide.mp4
 TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TOOLCRAFT_TV-Woodturning_Carbite_Tip_Guide.mp4
-TC003, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Toolcraft_TV_Hottest_Deals_Animation.mp4
+TC003, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Toolcraft_TV_Hottest_Deals_Animation2.mp4
 TC004, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metab_x_Hikoki_V_Animations2.mp4
 TC005, https://gernot.co.za/media/Bosch_boxes.mp4
 Bosch, https://gernot.co.za/media/Bosch.mp4, https://gernot.co.za/media/Bosch_boxes.mp4
