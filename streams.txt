@@ -1,12 +1,12 @@
 TC001, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Woodturning_Carbite_Tip_Guide.mp4
 TC002, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TOOLCRAFT_TV-Woodturning_Carbite_Tip_Guide.mp4
 TC003, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Toolcraft_TV_Hottest_Deals_Animation2.mp4
-TC004, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metab_x_Hikoki_V_Animations2.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metabo_DH330_Tv_Slide.mp4
+TC004, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metab_x_Hikoki_V_Animations2.mp4
 TC005, https://gernot.co.za/media/Bosch_boxes.mp4
 Bosch, https://gernot.co.za/media/Bosch.mp4, https://gernot.co.za/media/Bosch_boxes.mp4
 DeWalt, https://gernot.co.za/media/DeWalt.mp4
-Hikoki, https://gernot.co.za/media/Hikoki.mp4
+Hikoki, https://gernot.co.za/media/Hikoki.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metabo_DH330_Tv_Slide.mp4
 Makita, https://gernot.co.za/media/Makita.mp4
-Metabo, https://gernot.co.za/media/Metabo.mp4
+Metabo, https://gernot.co.za/media/Metabo.mp4, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/Metabo_DH330_Tv_Slide.mp4
 Test1, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_1_test.mp4
 Test2, https://raw.githubusercontent.com/GernsTC/TV_Streams/main/videos/TV_2_test.mp4
